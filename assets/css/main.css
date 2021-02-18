@@ -2796,7 +2796,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #8a2d02;
+		background-color: #5A0306;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -3313,4 +3313,33 @@ input, select, textarea {
 
 	.imgborder {
 		border: 5px solid white;
+	}
+
+	#projects1 {
+		width: 50%;
+    	height: 100%;
+    	background-image: url(images/lepain.png);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	background-position: center;
+	}
+	#projects2 {
+		width: 50%;
+    	height: 100%;
+    	background-image: url(images/photosite.png);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	background-position: center;
+	}
+	#projects3 {
+		width: 50%;
+    	height: 100%;
+    	background-image: url(images/videobackground.png);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	background-position: center;
+	}
+
+	.content p {
+		color: #6E6E6E;
 	}
