@@ -1010,7 +1010,7 @@
 		}
 
 		.logo {
-			background: _palette(accent1, bg);
+			background-image: url(Images/me.jpg);
 			border-radius: 100%;
 			color: _palette(accent1, fg-bold);
 			cursor: default;
@@ -1021,11 +1021,6 @@
 			margin: 0 0 0.75em 0;
 			text-align: center;
 			width: 2.35em;
-
-			&.fa-paper-plane-o:before {
-				left: -0.075em;
-				position: relative;
-			}
 		}
 
 		h1 {
