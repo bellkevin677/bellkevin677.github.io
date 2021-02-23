@@ -3350,3 +3350,16 @@ input, select, textarea {
 		border-style: none;
 		outline: none;
 	}
+
+	.col-4 p {
+		margin: auto;
+		text-align: center;
+		font-weight: bolder;
+	}
+
+	.col-4 i {
+		font-size: 75px;
+		color:  #5A0306;
+		padding: 10px;
+	}
+
