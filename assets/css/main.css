@@ -3363,6 +3363,10 @@ input, select, textarea {
 		padding: 10px;
 	}
 
-	.header img {
-		z-index: 4;
+	#kevin {
+		background-image: url(images/kevin.jpg);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	background-position: center;
 	}
+
