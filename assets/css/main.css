@@ -3363,3 +3363,6 @@ input, select, textarea {
 		padding: 10px;
 	}
 
+	.header img {
+		z-index: 4;
+	}
